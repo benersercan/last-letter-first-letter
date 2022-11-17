@@ -1,10 +1,14 @@
+## I hope it saves you time :)
+
+# word game played with the last letter and the first letter.
+
+Developed using typescript and react. missing as review and refactor :/ 
+
 # Son harfinden kelime türetme oyunu
 
 Oyun, kelimenin son harfinden yeni bir kelime türeterek oynanıyor. Kelime içeriğimizin Türkçe isimler olduğunu varsayarsak şöyle bir sequence oluşuyor;
 
-**Hasan -> Niyazi -> İbrahim -> Mustafa -> Ahmet -> …**
-
-# Getting Started with Create React App
+**Bener -> Rıza -> Ahmet -> Tamer -> Ramiz -> …**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
