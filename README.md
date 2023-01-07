@@ -1,6 +1,4 @@
-## I hope it saves you time :)
-
-# word game played with the last letter and the first letter.
+## Word game played with the Last letter and the First letter.
 
 Developed using typescript and react. missing as review and refactor :/ 
 
